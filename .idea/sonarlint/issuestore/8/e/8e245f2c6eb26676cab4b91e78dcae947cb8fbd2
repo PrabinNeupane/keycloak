@@ -1,0 +1,12 @@
+
+C
+java:S1604C"(Make this anonymous inner class a lambda(Ý¶­ãúÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(€©Ž˜ýÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ò¾Íýÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(œÍ±´ùÿÿÿÿ
+V	java:S125*"<This block of commented-out lines of code should be removed.(áíüÈùÿÿÿÿ
+V	java:S1253"<This block of commented-out lines of code should be removed.(€´‰íùÿÿÿÿ
+E	java:S106K"+Replace this use of System.out by a logger.(µ°âùÿÿÿÿ
+]
+java:S1612N"BReplace this lambda with method reference 'Comparable::compareTo'.(¸Ý˜èÿÿÿÿÿ
+@	java:S106P"+Replace this use of System.out by a logger.(˜ïÓÓ

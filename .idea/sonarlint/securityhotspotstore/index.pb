@@ -33,3 +33,5 @@ Uauthentication/src/main/java/com/keyclock/authentication/service/KeycloakServic
 Mauthentication/src/main/java/com/keyclock/authentication/model/UserLogin.java,b/2/b2f7171210bbce494bb2f9c7de98c8660f4bee0a
 ‹
 [authentication/src/main/java/com/keyclock/authentication/model/UserRegistrationRequest.java,b/e/be3aa580c09a29cdbb851dc3b3ead59b40b53fac
+v
+Fdeleteable_thread_Practice/src/main/java/org/example/simpleThread.java,8/e/8e245f2c6eb26676cab4b91e78dcae947cb8fbd2
