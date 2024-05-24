@@ -1,0 +1,5 @@
+
+G	java:S106$"+Replace this use of System.out by a logger.(×¯ì8ÿÁ‰Æú1
+L	java:S106&"+Replace this use of System.out by a logger.(ğÊÓæúÿÿÿÿ8€Â‰Æú1
+U
+java:S1068"3Remove this unused "keycloakSession" private field.(‘çÏ¡øÿÿÿÿ8‚Â‰Æú1
