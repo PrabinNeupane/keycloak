@@ -35,3 +35,5 @@ Mauthentication/src/main/java/com/keyclock/authentication/model/UserLogin.java,
 [authentication/src/main/java/com/keyclock/authentication/model/UserRegistrationRequest.java,b/e/be3aa580c09a29cdbb851dc3b3ead59b40b53fac
 v
 Fdeleteable_thread_Practice/src/main/java/org/example/simpleThread.java,8/e/8e245f2c6eb26676cab4b91e78dcae947cb8fbd2
+I
+authentication/.gitignore,d/a/da3ccb97c2f7c552d4f32964d86a625d78961ac8
